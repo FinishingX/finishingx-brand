@@ -4360,6 +4360,10 @@ div[role=heading].h2 + .list-unstyled.m-0.mt-4.pt-2 li .small.mb-2 {
 .xmodule_display.xmodule_VideoBlock .video .video-wrapper .video-controls .secondary-controls .menu-container .menu li .control-lang {
   font-size: 12px !important;
 }
+#root .course-outline-tab .alert.alert-success a, #root .course-outline-tab .alert.alert-success a:hover, #root .course-outline-tab .alert.alert-success a:focus {
+  background: #6eacaf;
+  color: #fff;
+}
 [data-paragon-theme-variant=dark] #root {
   position: relative;
   z-index: 1;
